@@ -1,4 +1,4 @@
-FROM pull node:lts-jod
+FROM node:lts-jod
 
 COPY dist dist
 
